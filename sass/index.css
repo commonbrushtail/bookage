@@ -14,7 +14,7 @@ html.modalActive {
 .hero {
   min-height: 80vh;
   padding-top: 20px;
-  background-image: url(/images/banner.jpg);
+  background-image: url(../images/banner.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
