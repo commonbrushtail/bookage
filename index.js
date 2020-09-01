@@ -111,7 +111,7 @@ gsap.from('.cover',{
 gsap.from('.deviceImg',{
     scrollTrigger:{
         trigger:'.deviceImg',
-        start:"top center"
+        start:"top bottom"
 
     },
     y:50,opacity:0,duration:1,
